@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: RGB(241, 243, 246);
+}
+nav ul{
+    background-color: RGB(12, 115, 235);
+}
