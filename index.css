@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #C8C8C8;
+
+}
+nav ul{
+    background-color: RGB(12, 115, 235);
+    display: flex;
+    justify-content: flex-start;
+    text-align: center;
+    list-style: none;
+    color: aliceblue;
+    font-size: large;
+    height: 65px;
+    padding-top: 8px;
+    padding-right: 30px;
+    margin-right: 50px;
+    width: 100%;
+    
+}
+.logy{
+    padding-left: 50px;
+    padding-top: 7px;
+    padding-right: 65px;
+
+}
+.searchbar{
+    text-align: center;
+    justify-content: center;
+    padding-top: 5px;
+}
+.searchy{
+    width: 70vh;
+    height: 4vh;
+}
+.buttony{
+    width: 10vh;
+    height: 3vh;
+    cursor: pointer;
+}
+li{
+    padding-right: 40px;
+    padding-top: 12px;
+}
+li:hover{
+    font-weight: 500;
+}
+.container{
+    min-height: calc(100vh - 12vh - 60px);
+}
+.footy{
+    height: 12vh;
+    width: 100%;
+    background-color: RGB(12, 115, 235);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    color: aliceblue;
+}
+.img{
+    margin: 3vh 10vh;
+}
+.fstbar{
+    border: 1px solid grey;
+    height: 40vh;
+    width: 95%;
+    display: flex;
+    margin: 20px 40px;
+    background-color: #F1F3F6;
+}
+.barhead{
+    font-size: larger;
+    padding: 5px 8px;
+}
+.fstbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.barhead{
+    font-size: xx-large;
+    font-style: oblique bold;
+    margin: 0 50px;
+}
+.snek{
+    margin: 0 40px;
+}
+
+
